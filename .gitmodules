@@ -1,0 +1,3 @@
+[submodule "SubModule/notes"]
+	path = SubModule/notes
+	url = /home/mark/Desktop/notes/
